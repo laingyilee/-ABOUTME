@@ -1,7 +1,7 @@
 # 李亮誼 (Milly Lee)
 <hr>
 ## 履歷
-<hr>
+
 - Birthday: 1988/01/05
 - Education: 臺東大學 資訊管理系 & 臺南大學 動畫媒體設計研究所
 - Location: Kaoshiung
