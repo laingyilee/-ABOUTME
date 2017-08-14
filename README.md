@@ -21,8 +21,8 @@
 
 ### 作品集 (整理中)
 - <a href="#" target="_blank">BMI 計算</a>
- - 實作一個BMI計算介面，可以新增修改計算結果    
- - Javascript & RWD 
+  -實作一個BMI計算介面，可以新增修改計算結果    
+  -Javascript & RWD 
 
 - <a href="#" target="_blank">高雄旅遊資訊網</a>
  - 透過政府資料開放平台抓取 JSON 資料，透過 Ajax 呈現旅遊資訊在網頁上    
