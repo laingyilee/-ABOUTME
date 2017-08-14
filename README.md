@@ -1,4 +1,7 @@
 # 李亮誼 (Milly Lee)
+<hr>
+## 履歷
+<hr>
 - Birthday: 1988/01/05
 - Education: 臺東大學 資訊管理系 & 臺南大學 動畫媒體設計研究所
 - Location: Kaoshiung
@@ -15,7 +18,7 @@
 - 了解 Git / Github 與基本指令運用
 
 ### UI/Web Design 設計
- 會使用Photoshop & Illustrator 還有Sketch 設計 UI 介面 (網頁及APP)
+- 會使用Photoshop & Illustrator 還有Sketch 設計 UI 介面 (網頁及APP)
 - 平面與影像設計
 <hr>
 
@@ -37,12 +40,13 @@
 2015.10-2016.07 **晨星網路科技**
 - 網頁設計&切版
 - APP介面設計
+
 2016.07-至今 **哈瑪星網路科技**
 - 網頁設計&切版
 - APP介面設計
 <hr>
  
-### 自介與自我期許
+### 
 - 一個網頁設計師
 - 持續透過自學與線上課程的方式增進專業能力，學習能力強
 - 希望能學會Coding 結合動畫，做出互動性佳的網站
