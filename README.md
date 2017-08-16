@@ -26,11 +26,11 @@
   - 實作一個BMI計算介面，可以新增修改計算結果    
   - Javascript & RWD 
 
-<a href="#" target="_blank">高雄旅遊資訊網</a>
+<a href="https://laingyilee.github.io/travelinfo/" target="_blank">高雄旅遊資訊網</a>
  - 透過政府資料開放平台抓取 JSON 資料，透過 Ajax 呈現旅遊資訊在網頁上    
  - Javascript & jQuery & RWD 
  
-<a href="#" target="_blank">台北災害資訊公開平台</a>
+<a href="https://laingyilee.github.io/typhoon/" target="_blank">台北災害資訊公開平台</a>
  - 透過台北消防局資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，顯示相關的災害資訊
  - Javascript 		   
  <hr>
