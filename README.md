@@ -22,7 +22,7 @@
 <hr>
 
 ### 作品集 (整理中)
-<a href="#" target="_blank">BMI 計算</a>
+<a href="https://laingyilee.github.io/BMI/" target="_blank">BMI 計算</a>
   - 實作一個BMI計算介面，可以新增修改計算結果    
   - Javascript & RWD 
 
@@ -48,5 +48,4 @@
 ### 關於我
 - 持續透過自學與線上課程的方式增進專業能力，學習能力強
 - 喜歡接觸新技術，透過工作累積實作經驗，解決專案中遇到的問題
-- 根據專案需求，建構並優化網站
 
