@@ -20,7 +20,7 @@
 - 平面與影像設計
 <hr>
 
-### 作品集
+### 前端作品集
 <a href="https://laingyilee.github.io/BMI/" target="_blank">BMI 計算</a>
   - 實作一個BMI計算介面，可以新增修改計算結果    
   - JavaScript & RWD 
