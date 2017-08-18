@@ -15,7 +15,7 @@
 - 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
 - 了解 Git / Github 與基本指令運用
 
-### UI/Web Design 設計
+### UI/Web Design 設計 <a href="https://www.behance.net/Liang-YiLee" target="_blank">作品集連結</a>
 - 會使用 Photoshop & Illustrator 還有 Sketch 設計 UI 介面 ( 網頁 及 APP )
 - 平面與影像設計
 <hr>
