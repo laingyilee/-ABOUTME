@@ -24,14 +24,15 @@
 <a href="https://eservice.penghu.gov.tw/Default.aspx" target="_blank">澎湖線上申辦服務系統</a>
  - 切版與排版設計
  - RWD & SASS 
+
+<a href="http://www.ktnp.gov.tw/" target="_blank">墾丁國家公園管理處</a>
+ - 切版與排版設計
+ - RWD & SASS 
  
 <a href="http://www.kuh.com.tw/index.htm" target="_blank">堃智冷凍工業股份有限公司</a>
  - 網頁設計
  - RWD & SASS 
  
-<a href="http://www.ktnp.gov.tw/" target="_blank">墾丁國家公園管理處</a>
- - 切版與排版設計
- - RWD & SASS 
  
 <a href="https://laingyilee.github.io/BMI/" target="_blank">BMI 計算</a>
   - 實作一個BMI計算介面，可以新增修改計算結果    
