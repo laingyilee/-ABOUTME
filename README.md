@@ -25,6 +25,10 @@
  - 切版與排版設計
  - RWD & SASS 
  
+<a href="http://www.kuh.com.tw/index.htm" target="_blank">堃智冷凍工業股份有限公司</a>
+ - 網頁設計
+ - RWD & SASS 
+ 
 <a href="http://www.ktnp.gov.tw/" target="_blank">墾丁國家公園管理處</a>
  - 切版與排版設計
  - RWD & SASS 
